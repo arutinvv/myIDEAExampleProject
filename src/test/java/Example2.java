@@ -4,6 +4,7 @@ String s ="text";
         String tts ="text";
         System.out.println("Git");
         double c =4.5;
+        int number =145;
     }
 
 
